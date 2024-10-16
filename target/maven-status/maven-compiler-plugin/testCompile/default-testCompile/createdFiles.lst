@@ -1,0 +1,12 @@
+Requests\PostRequest.class
+UserTest\CreateUserTest.class
+Utilities\constants.class
+PostTests\DeletePostTest.class
+PostTests\updatePost.class
+UserTest\GetUserTests.class
+PostTests\CreatePostTests.class
+PostTests\GetPostsTest.class
+Utilities\Mapping.class
+Requests\UserRequest.class
+UserTest\UpdateUser.class
+UserTest\DeleteUser.class

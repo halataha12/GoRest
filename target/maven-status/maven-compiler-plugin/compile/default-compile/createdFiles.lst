@@ -1,0 +1,11 @@
+Models\UserModels\CreateUserWithInvalidFieldsResponseBodyModel.class
+Models\UserModels\GetSingleResponseUserModel.class
+org\example\Main.class
+Models\PostModels\GetPostResponseModel.class
+Models\UserModels\CreateUserResponseModel.class
+Models\PostModels\CreatePostRequestModel.class
+Models\UserModels\GetUsersResponseModels.class
+Models\PostModels\InvalidResponseMessage.class
+Models\PostModels\CreatePostResponseModel.class
+Models\UserModels\CreateUserRequestModel.class
+Models\UserModels\InvalidResponseMessageModel.class

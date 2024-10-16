@@ -1,0 +1,18 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="RestAssuredTestSuite">
+    <test name="API Test">
+        <classes>
+            <class name="UserTest.CreateUserTest" />
+            <class name="UserTest.GetUserTests" />
+            <class name="UserTest.UpdateUser" />
+            <class name="UserTest.DeleteUser" />
+            <class name="PostTests.CreatePostTests" />
+            <class name="PostTests.GetPostsTest" />
+            <class name="PostTests.updatePost" />
+            <class name="PostTests.DeletePostTest" />
+            <class name="TodoTests.CreateTodoTests" />
+            <class name="TodoTests.GetTodoTests" />
+
+        </classes>
+    </test>
+</suite>
